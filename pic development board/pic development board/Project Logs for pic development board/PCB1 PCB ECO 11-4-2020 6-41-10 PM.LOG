@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VCC Pin=S10-1
+Removed Pin From Net: NetName=VCC Pin=S11-1
+Removed Member From Class: ClassName=Sheet2 Member=S10
+Removed Member From Class: ClassName=Sheet2 Member=S11
+Added Component: Designator=S?(SW_SKHHANA010)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S?(SW_SKHHANA010)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=S?-1
+Added Pin To Net: NetName=VCC Pin=S?-1
+Added Pin To Net: NetName=VCC Pin=S?-2
+Added Pin To Net: NetName=VCC Pin=S?-2
+Added Pin To Net: NetName=NetS?_3 Pin=S?-3
+Added Pin To Net: NetName=NetS?_3 Pin=S?-4
+Added Pin To Net: NetName=NetS?_3 Pin=U18-1
+Added Net: Name=NetS?_3
+Added Member To Class: ClassName=Sheet2 Member=Component S? SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S? SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S? SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S? SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S? SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S? SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S? SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S? SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S? SKHHANA010
+Added Room: Name=Sheet2

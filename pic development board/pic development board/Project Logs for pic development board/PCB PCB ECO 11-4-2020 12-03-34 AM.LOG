@@ -1,0 +1,56 @@
+Change Component Footprint: Designator=P15 Old Footprint=HDR1X14 New Footprint=HDR1X13
+Change Component Comment : Designator=P15 Old Comment=Header 14 New Comment=Header 13
+Added Pin To Net: NetName=GND Pin=P13-5
+Added Pin To Net: NetName=1 Pin=P13-7
+Added Pin To Net: NetName=2 Pin=P13-8
+Added Pin To Net: NetName=3 Pin=P13-9
+Added Pin To Net: NetName=4 Pin=P13-10
+Added Pin To Net: NetName=5 Pin=P13-11
+Added Pin To Net: NetName=6 Pin=P13-12
+Added Pin To Net: NetName=7 Pin=P13-13
+Added Pin To Net: NetName=8 Pin=P13-14
+Added Pin To Net: NetName=GND Pin=P14-5
+Added Pin To Net: NetName=1 Pin=P14-7
+Added Pin To Net: NetName=2 Pin=P14-8
+Added Pin To Net: NetName=3 Pin=P14-9
+Added Pin To Net: NetName=4 Pin=P14-10
+Added Pin To Net: NetName=5 Pin=P14-11
+Added Pin To Net: NetName=6 Pin=P14-12
+Added Pin To Net: NetName=7 Pin=P14-13
+Added Pin To Net: NetName=8 Pin=P14-14
+Added Pin To Net: NetName=1 Pin=P15-3
+Added Pin To Net: NetName=2 Pin=P15-4
+Added Pin To Net: NetName=3 Pin=P15-5
+Added Pin To Net: NetName=4 Pin=P15-6
+Added Pin To Net: NetName=5 Pin=P15-7
+Added Pin To Net: NetName=6 Pin=P15-8
+Added Pin To Net: NetName=7 Pin=P15-9
+Added Pin To Net: NetName=8 Pin=P15-10
+Added Pin To Net: NetName=c1 Pin=P14-15
+Added Pin To Net: NetName=c1 Pin=P15-11
+Added Net: Name=c1
+Added Pin To Net: NetName=c2 Pin=P14-16
+Added Pin To Net: NetName=c2 Pin=P15-12
+Added Net: Name=c2
+Added Pin To Net: NetName=en Pin=P13-6
+Added Pin To Net: NetName=en Pin=P14-6
+Added Pin To Net: NetName=en Pin=P15-2
+Added Net: Name=en
+Added Pin To Net: NetName=rs Pin=P13-4
+Added Pin To Net: NetName=rs Pin=P14-4
+Added Pin To Net: NetName=rs Pin=P15-1
+Added Net: Name=rs
+Added Pin To Net: NetName=rst Pin=P14-17
+Added Pin To Net: NetName=rst Pin=P15-13
+Added Net: Name=rst
+Added Pin To Net: NetName=ve Pin=P14-18
+Added Pin To Net: NetName=ve Pin=R42-1
+Added Net: Name=ve
+Added Pin To Net: NetName=vo Pin=P14-3
+Added Pin To Net: NetName=vo Pin=R42-3
+Added Net: Name=vo
+Added Member To Class: ClassName=Sheet1 Member=Component D2 LED
+Added Member To Class: ClassName=Sheet1 Member=Component D16 LED
+Added Member To Class: ClassName=Sheet1 Member=Component R10 Res1
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

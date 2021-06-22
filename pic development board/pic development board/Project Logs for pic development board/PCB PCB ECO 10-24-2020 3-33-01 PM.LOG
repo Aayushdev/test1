@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=R32-2
+Removed Pin From Net: NetName=GND Pin=R33-1
+Removed Pin From Net: NetName=VCC Pin=R33-2
+Removed Member From Class: ClassName=Sheet1 Member=R33
+Change Component Footprint: Designator=R32 Old Footprint=VR5 New Footprint=TRIM_3296W-1-103ALF
+Change Component Comment : Designator=R32 Old Comment=RPot New Comment=3296W-1-103ALF
+Change component parameters: Designator = "R32"; Footprint = "TRIM_3296W-1-103ALF"; UniqueID = "\JQOSCKEC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=697371"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "3296W-1-103ALF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W-1-103ALF/Bourns/view-part/697371/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(TRIM_3296W-1-103ALF)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=697371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3296W-1-103ALF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W-1-103ALF/Bourns/view-part/697371/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-3
+Added Pin To Net: NetName=GND Pin=R32-3
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R38-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=R39-2
+Added Net: Name=NetR32_2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 3296W-1-103ALF
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

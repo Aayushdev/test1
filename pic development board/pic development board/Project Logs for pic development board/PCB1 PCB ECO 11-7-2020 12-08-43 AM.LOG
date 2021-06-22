@@ -1,0 +1,345 @@
+Removed Member From Class: ClassName=Sheet2 Member=P40
+Removed Member From Class: ClassName=Sheet2 Member=P46
+Change Component Footprint: Designator=R66 Old Footprint=10k sip New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=S12 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S13 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S14 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S15 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S16 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S17 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S18 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S19 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S20 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S21 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S22 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S23 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S24 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S25 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S26 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Footprint: Designator=S27 Old Footprint=SPST-2 New Footprint=buttons
+Change Component Comment : Designator=R66 Old Comment=10k sip New Comment=Res1
+Change Component Comment : Designator=S12 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S13 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S14 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S15 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S16 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S17 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S18 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S19 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S20 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S21 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S22 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S23 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S24 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S25 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S26 Old Comment=SW-PB New Comment=SKHHANA010
+Change Component Comment : Designator=S27 Old Comment=SW-PB New Comment=SKHHANA010
+Change component parameters: Designator = "R66"; Footprint = "AXIAL-0.3"; UniqueID = "\AHJIXXGY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S12"; Footprint = "buttons"; UniqueID = "\RERYMHGV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S13"; Footprint = "buttons"; UniqueID = "\AVLMSYHB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S14"; Footprint = "buttons"; UniqueID = "\GJSJQATX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S15"; Footprint = "buttons"; UniqueID = "\QLAGQFTD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S16"; Footprint = "buttons"; UniqueID = "\YWOEDDHD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S17"; Footprint = "buttons"; UniqueID = "\VYMWQULN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S18"; Footprint = "buttons"; UniqueID = "\YXOHYTRX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S19"; Footprint = "buttons"; UniqueID = "\KSNVBCKW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S20"; Footprint = "buttons"; UniqueID = "\IGFISPWV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S21"; Footprint = "buttons"; UniqueID = "\HAIENGOJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S22"; Footprint = "buttons"; UniqueID = "\GPMEEFPX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S23"; Footprint = "buttons"; UniqueID = "\PMJGOKUN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S24"; Footprint = "buttons"; UniqueID = "\WPJFGWUJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S25"; Footprint = "buttons"; UniqueID = "\JIQLBJNT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S26"; Footprint = "buttons"; UniqueID = "\HCCBXVAA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S27"; Footprint = "buttons"; UniqueID = "\GJDNKCQB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P16(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P17(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P18(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R33(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R67(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R68(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD7_2 Pin=C31-2
+Added Pin To Net: NetName=NetD7_2 Pin=P16-1
+Added Pin To Net: NetName=NetD12_2 Pin=P16-2
+Added Pin To Net: NetName=NetD7_2 Pin=U17-8
+Added Pin To Net: NetName=NetD7_2 Pin=U18-16
+Change Net Name : Old Net Name=NetD7_2 New Net Name=12V
+Added Pin To Net: NetName=NetP17_1 Pin=P17-1
+Added Pin To Net: NetName=NetP17_1 Pin=R33-1
+Added Pin To Net: NetName=NetP17_1 Pin=S12-1
+Added Net: Name=NetP17_1
+Added Pin To Net: NetName=NetP17_2 Pin=P17-2
+Added Pin To Net: NetName=NetP17_2 Pin=R66-1
+Added Pin To Net: NetName=NetP17_2 Pin=S13-1
+Added Net: Name=NetP17_2
+Added Pin To Net: NetName=NetP17_3 Pin=P17-3
+Added Pin To Net: NetName=NetP17_3 Pin=R67-1
+Added Pin To Net: NetName=NetP17_3 Pin=S14-1
+Added Net: Name=NetP17_3
+Added Pin To Net: NetName=NetP17_4 Pin=P17-4
+Added Pin To Net: NetName=NetP17_4 Pin=R68-1
+Added Pin To Net: NetName=NetP17_4 Pin=S15-1
+Added Net: Name=NetP17_4
+Added Pin To Net: NetName=NetP18_1 Pin=P18-1
+Added Pin To Net: NetName=NetP18_1 Pin=S12-3
+Added Pin To Net: NetName=NetP18_1 Pin=S12-4
+Added Pin To Net: NetName=NetP18_1 Pin=S13-3
+Added Pin To Net: NetName=NetP18_1 Pin=S13-4
+Added Pin To Net: NetName=NetP18_1 Pin=S14-3
+Added Pin To Net: NetName=NetP18_1 Pin=S14-4
+Added Pin To Net: NetName=NetP18_1 Pin=S15-3
+Added Pin To Net: NetName=NetP18_1 Pin=S15-4
+Added Net: Name=NetP18_1
+Added Pin To Net: NetName=NetP18_2 Pin=P18-2
+Added Pin To Net: NetName=NetP18_2 Pin=S16-3
+Added Pin To Net: NetName=NetP18_2 Pin=S16-4
+Added Pin To Net: NetName=NetP18_2 Pin=S17-3
+Added Pin To Net: NetName=NetP18_2 Pin=S17-4
+Added Pin To Net: NetName=NetP18_2 Pin=S18-3
+Added Pin To Net: NetName=NetP18_2 Pin=S18-4
+Added Pin To Net: NetName=NetP18_2 Pin=S19-3
+Added Pin To Net: NetName=NetP18_2 Pin=S19-4
+Added Net: Name=NetP18_2
+Added Pin To Net: NetName=NetP18_3 Pin=P18-3
+Added Pin To Net: NetName=NetP18_3 Pin=S20-3
+Added Pin To Net: NetName=NetP18_3 Pin=S20-4
+Added Pin To Net: NetName=NetP18_3 Pin=S21-3
+Added Pin To Net: NetName=NetP18_3 Pin=S21-4
+Added Pin To Net: NetName=NetP18_3 Pin=S22-3
+Added Pin To Net: NetName=NetP18_3 Pin=S22-4
+Added Pin To Net: NetName=NetP18_3 Pin=S23-3
+Added Pin To Net: NetName=NetP18_3 Pin=S23-4
+Added Net: Name=NetP18_3
+Added Pin To Net: NetName=NetP18_4 Pin=P18-4
+Added Pin To Net: NetName=NetP18_4 Pin=S24-3
+Added Pin To Net: NetName=NetP18_4 Pin=S24-4
+Added Pin To Net: NetName=NetP18_4 Pin=S25-3
+Added Pin To Net: NetName=NetP18_4 Pin=S25-4
+Added Pin To Net: NetName=NetP18_4 Pin=S26-3
+Added Pin To Net: NetName=NetP18_4 Pin=S26-4
+Added Pin To Net: NetName=NetP18_4 Pin=S27-3
+Added Pin To Net: NetName=NetP18_4 Pin=S27-4
+Added Net: Name=NetP18_4
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR33_2 Pin=R66-2
+Added Pin To Net: NetName=NetR33_2 Pin=R67-2
+Added Pin To Net: NetName=NetR33_2 Pin=R68-2
+Added Pin To Net: NetName=NetR33_2 Pin=SS4-2
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=NetS12_2 Pin=S12-2
+Added Pin To Net: NetName=NetS12_2 Pin=S16-1
+Added Net: Name=NetS12_2
+Added Pin To Net: NetName=NetS13_2 Pin=S13-2
+Added Pin To Net: NetName=NetS13_2 Pin=S17-1
+Added Net: Name=NetS13_2
+Added Pin To Net: NetName=NetS14_2 Pin=S14-2
+Added Pin To Net: NetName=NetS14_2 Pin=S18-1
+Added Net: Name=NetS14_2
+Added Pin To Net: NetName=NetS15_2 Pin=S15-2
+Added Pin To Net: NetName=NetS15_2 Pin=S19-1
+Added Net: Name=NetS15_2
+Added Pin To Net: NetName=NetS16_2 Pin=S16-2
+Added Pin To Net: NetName=NetS16_2 Pin=S20-1
+Added Net: Name=NetS16_2
+Added Pin To Net: NetName=NetS17_2 Pin=S17-2
+Added Pin To Net: NetName=NetS17_2 Pin=S21-1
+Added Net: Name=NetS17_2
+Added Pin To Net: NetName=NetS18_2 Pin=S18-2
+Added Pin To Net: NetName=NetS18_2 Pin=S22-1
+Added Net: Name=NetS18_2
+Added Pin To Net: NetName=NetS19_2 Pin=S19-2
+Added Pin To Net: NetName=NetS19_2 Pin=S23-1
+Added Net: Name=NetS19_2
+Added Pin To Net: NetName=NetS20_2 Pin=S20-2
+Added Pin To Net: NetName=NetS20_2 Pin=S24-1
+Added Pin To Net: NetName=NetS20_2 Pin=S24-2
+Added Net: Name=NetS20_2
+Added Pin To Net: NetName=NetS21_2 Pin=S21-2
+Added Pin To Net: NetName=NetS21_2 Pin=S25-1
+Added Pin To Net: NetName=NetS21_2 Pin=S25-2
+Added Net: Name=NetS21_2
+Added Pin To Net: NetName=NetS22_2 Pin=S22-2
+Added Pin To Net: NetName=NetS22_2 Pin=S26-1
+Added Pin To Net: NetName=NetS22_2 Pin=S26-2
+Added Net: Name=NetS22_2
+Added Pin To Net: NetName=NetS23_2 Pin=S23-2
+Added Pin To Net: NetName=NetS23_2 Pin=S27-1
+Added Pin To Net: NetName=NetS23_2 Pin=S27-2
+Added Net: Name=NetS23_2
+Added Member To Class: ClassName=Sheet1 Member=Component P16 Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component P17 Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component P18 Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component R33 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R67 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R68 Res1

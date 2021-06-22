@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC3 Pin=D8-2
+Removed Pin From Net: NetName=NetC3 Pin=D13-2
+Removed Member From Class: ClassName=Sheet1 Member=C1
+Removed Member From Class: ClassName=Sheet1 Member=C2
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Removed Member From Class: ClassName=Sheet1 Member=D3
+Removed Member From Class: ClassName=Sheet1 Member=D4
+Removed Member From Class: ClassName=Sheet1 Member=D5
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Added Pin To Net: NetName=GND Pin=C3-2
+Change Net Name : Old Net Name=NetC3 New Net Name=NetC19
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=D8-2
+Added Pin To Net: NetName=NetC3_1 Pin=D13-2
+Added Net: Name=NetC3_1
+Change Room Name: Old Name=Sheet_1 New Name=Sheet1

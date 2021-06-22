@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=1 Pin=D19-1
+Removed Pin From Net: NetName=2 Pin=D19-2
+Removed Pin From Net: NetName=3 Pin=D19-3
+Removed Pin From Net: NetName=4 Pin=D19-4
+Removed Pin From Net: NetName=5 Pin=D19-5
+Removed Pin From Net: NetName=6 Pin=D19-6
+Removed Pin From Net: NetName=7 Pin=D19-7
+Removed Pin From Net: NetName=8 Pin=D19-8
+Removed Pin From Net: NetName=1 Pin=P3-1
+Removed Pin From Net: NetName=2 Pin=P3-2
+Removed Pin From Net: NetName=3 Pin=P3-3
+Removed Pin From Net: NetName=4 Pin=P3-4
+Removed Pin From Net: NetName=5 Pin=P3-5
+Removed Pin From Net: NetName=6 Pin=P3-6
+Removed Pin From Net: NetName=7 Pin=P3-7
+Removed Pin From Net: NetName=8 Pin=P3-8
+Change Net Name : Old Net Name=1 New Net Name=a1
+Change Net Name : Old Net Name=2 New Net Name=a2
+Change Net Name : Old Net Name=3 New Net Name=a3
+Change Net Name : Old Net Name=4 New Net Name=a4
+Change Net Name : Old Net Name=5 New Net Name=a5
+Change Net Name : Old Net Name=6 New Net Name=a6
+Change Net Name : Old Net Name=7 New Net Name=a7
+Change Net Name : Old Net Name=8 New Net Name=a8
+Added Pin To Net: NetName=1 Pin=D19-1
+Added Pin To Net: NetName=1 Pin=P3-1
+Added Net: Name=1
+Added Pin To Net: NetName=2 Pin=D19-2
+Added Pin To Net: NetName=2 Pin=P3-2
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=D19-3
+Added Pin To Net: NetName=3 Pin=P3-3
+Added Net: Name=3
+Added Pin To Net: NetName=4 Pin=D19-4
+Added Pin To Net: NetName=4 Pin=P3-4
+Added Net: Name=4
+Added Pin To Net: NetName=5 Pin=D19-5
+Added Pin To Net: NetName=5 Pin=P3-5
+Added Net: Name=5
+Added Pin To Net: NetName=6 Pin=D19-6
+Added Pin To Net: NetName=6 Pin=P3-6
+Added Net: Name=6
+Added Pin To Net: NetName=7 Pin=D19-7
+Added Pin To Net: NetName=7 Pin=P3-7
+Added Net: Name=7
+Added Pin To Net: NetName=8 Pin=D19-8
+Added Pin To Net: NetName=8 Pin=P3-8
+Added Net: Name=8
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

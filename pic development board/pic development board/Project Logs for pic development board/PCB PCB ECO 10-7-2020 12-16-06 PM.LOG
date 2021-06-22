@@ -1,0 +1,122 @@
+Added Component: Designator=P11(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P12(HDR1X20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P13(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P14(HDR1X20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P15(HDR2X14_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P11-1
+Added Pin To Net: NetName=GND Pin=P12-1
+Added Pin To Net: NetName=GND Pin=P13-1
+Added Pin To Net: NetName=GND Pin=P13-2
+Added Pin To Net: NetName=GND Pin=P13-3
+Added Pin To Net: NetName=GND Pin=P13-4
+Added Pin To Net: NetName=GND Pin=P13-5
+Added Pin To Net: NetName=GND Pin=P13-6
+Added Pin To Net: NetName=GND Pin=P13-7
+Added Pin To Net: NetName=GND Pin=P13-8
+Added Pin To Net: NetName=GND Pin=P13-9
+Added Pin To Net: NetName=GND Pin=P13-10
+Added Pin To Net: NetName=GND Pin=P13-11
+Added Pin To Net: NetName=GND Pin=P13-12
+Added Pin To Net: NetName=GND Pin=P13-13
+Added Pin To Net: NetName=GND Pin=P13-14
+Added Pin To Net: NetName=GND Pin=P13-15
+Added Pin To Net: NetName=GND Pin=P13-16
+Added Pin To Net: NetName=GND Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=GND Pin=P14-3
+Added Pin To Net: NetName=GND Pin=P14-4
+Added Pin To Net: NetName=GND Pin=P14-5
+Added Pin To Net: NetName=GND Pin=P14-6
+Added Pin To Net: NetName=GND Pin=P14-7
+Added Pin To Net: NetName=GND Pin=P14-8
+Added Pin To Net: NetName=GND Pin=P14-9
+Added Pin To Net: NetName=GND Pin=P14-10
+Added Pin To Net: NetName=GND Pin=P14-11
+Added Pin To Net: NetName=GND Pin=P14-12
+Added Pin To Net: NetName=GND Pin=P14-13
+Added Pin To Net: NetName=GND Pin=P14-14
+Added Pin To Net: NetName=GND Pin=P14-15
+Added Pin To Net: NetName=GND Pin=P14-16
+Added Pin To Net: NetName=GND Pin=P14-17
+Added Pin To Net: NetName=GND Pin=P15-1
+Added Pin To Net: NetName=GND Pin=P15-2
+Added Pin To Net: NetName=GND Pin=P15-3
+Added Pin To Net: NetName=GND Pin=P15-4
+Added Pin To Net: NetName=GND Pin=P15-5
+Added Pin To Net: NetName=GND Pin=P15-6
+Added Pin To Net: NetName=GND Pin=P15-7
+Added Pin To Net: NetName=GND Pin=P15-8
+Added Pin To Net: NetName=GND Pin=P15-9
+Added Pin To Net: NetName=GND Pin=P15-10
+Added Pin To Net: NetName=GND Pin=P15-11
+Added Pin To Net: NetName=GND Pin=P15-12
+Added Pin To Net: NetName=GND Pin=P15-13
+Added Pin To Net: NetName=GND Pin=P15-14
+Added Pin To Net: NetName=GND Pin=P15-19
+Added Pin To Net: NetName=GND Pin=P15-20
+Added Pin To Net: NetName=GND Pin=P15-21
+Added Pin To Net: NetName=GND Pin=P15-22
+Added Pin To Net: NetName=GND Pin=P15-23
+Added Pin To Net: NetName=GND Pin=P15-24
+Added Pin To Net: NetName=GND Pin=P15-25
+Added Pin To Net: NetName=GND Pin=P15-26
+Added Pin To Net: NetName=GND Pin=P15-27
+Added Pin To Net: NetName=GND Pin=P15-28
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLabel4 Pin=P14-20
+Added Pin To Net: NetName=NetLabel4 Pin=P15-15
+Added Net: Name=NetLabel4
+Added Pin To Net: NetName=NetLabel5 Pin=P14-19
+Added Pin To Net: NetName=NetLabel5 Pin=P15-16
+Added Net: Name=NetLabel5
+Added Pin To Net: NetName=NetLabel6 Pin=P14-18
+Added Pin To Net: NetName=NetLabel6 Pin=P15-17
+Added Net: Name=NetLabel6
+Added Pin To Net: NetName=NetP7_1 Pin=P7-1
+Added Pin To Net: NetName=NetP7_1 Pin=U4-9
+Added Net: Name=NetP7_1
+Added Pin To Net: NetName=NetP8_9 Pin=P8-9
+Added Pin To Net: NetName=NetP8_9 Pin=U4-10
+Added Net: Name=NetP8_9
+Added Pin To Net: NetName=VCC Pin=P11-2
+Added Pin To Net: NetName=VCC Pin=P12-2
+Added Net: Name=VCC
+Added Class: Name=Sheet2
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 14
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 14
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component P5 Header 7
+Added Member To Class: ClassName=Sheet1 Member=Component P6 Header 7
+Added Member To Class: ClassName=Sheet1 Member=Component P7 Header 9
+Added Member To Class: ClassName=Sheet1 Member=Component P8 Header 9
+Added Member To Class: ClassName=Sheet1 Member=Component P9 Header 10
+Added Member To Class: ClassName=Sheet1 Member=Component P10 Header 10
+Added Member To Class: ClassName=Sheet1 Member=Component P11 Header 16
+Added Member To Class: ClassName=Sheet1 Member=Component P12 Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component U1 PIC16F886
+Added Member To Class: ClassName=Sheet1 Member=Component U2 PIC16F887
+Added Member To Class: ClassName=Sheet1 Member=Component U3 PIC16F630
+Added Member To Class: ClassName=Sheet1 Member=Component U4 PIC16F83
+Added Member To Class: ClassName=Sheet1 Member=Component U5 pic(20) pin
+Added Room: Name=Sheet2

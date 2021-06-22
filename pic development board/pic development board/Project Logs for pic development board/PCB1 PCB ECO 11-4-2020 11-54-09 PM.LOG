@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=S2 Old Footprint=SW_SKHHANA010 New Footprint=buttons
+Change Component Footprint: Designator=S3 Old Footprint=SW_SKHHANA010 New Footprint=buttons
+Change Component Footprint: Designator=S4 Old Footprint=SW_SKHHANA010 New Footprint=buttons
+Change Component Footprint: Designator=S5 Old Footprint=SW_SKHHANA010 New Footprint=buttons
+Change Component Footprint: Designator=S6 Old Footprint=SW_SKHHANA010 New Footprint=buttons
+Change Component Footprint: Designator=S7 Old Footprint=SW_SKHHANA010 New Footprint=buttons
+Change Component Footprint: Designator=S8 Old Footprint=SW_SKHHANA010 New Footprint=buttons
+Change Component Footprint: Designator=S9 Old Footprint=SW_SKHHANA010 New Footprint=buttons
+Change Component Footprint: Designator=S10 Old Footprint=SW_SKHHANA010 New Footprint=buttons
+Change Component Footprint: Designator=S11 Old Footprint=SW_SKHHANA010 New Footprint=buttons
+Added Member To Class: ClassName=Sheet2 Member=Component P48 screw terminal
+Added Member To Class: ClassName=Sheet1 Member=Component R30 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R31 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R34 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R36 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component U18 L293D
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

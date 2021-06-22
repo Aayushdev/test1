@@ -1,0 +1,51 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~pic development board.PrjPcb|ReportField=ProjectFullPath~C:\Users\kaifa\Desktop\atium_practice\pic development board\pic development board\pic development board.PrjPcb|ReportField=Title~Bill of Materials For Project [pic development board.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~266|ReportField=ReportTime~3:22:58 PM|ReportField=ReportDate~11/12/2020|ReportField=ReportDateTime~11/12/2020 3:22:58 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~11/12/2020|ReportField=CurrentTime~3:17:44 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\kaifa\Desktop\atium_practice\pic development board\pic development board\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~11/10/2020|ReportField=Organization~|ReportField=ProjectName~pic development board.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~pic development board.PrjPcb|ReportField=DataSourceFullPath~C:\Users\kaifa\Desktop\atium_practice\pic development board\pic development board\pic development board.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|CEM-1203(42)|12 mm, 3.5 V, 85 dB, Through Hole, Magnetic Audio Transducer Buzzer|BUZ1|CUI_CEM-1203(42)|CEM-1203(42)|1
+2|47U||C1, C4|polarityCAP|CAP|2
+3|cap||C2, C5, C6, C7, C8, C9, C10, C11, C13, C14, C16, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C31|cap|cap|23
+4|104p||C3|cap|cap|1
+5|P.CAP||C12, C15, C17, C18|polarityCAP|CAP|4
+6|LED||D1, D2, D3, D4, D5, D6, D9, D10, D11, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D32|PCBComponent_1|LED|27
+7|1N4007|1 Amp General Purpose Rectifier|D7, D8, D12, D13|DO-41|Diode 1N4007|4
+8|Diode 1N4007|1 Amp General Purpose Rectifier|D31, D33|DO-41|Diode 1N4007|2
+9|7seg||D34, D35, D36, D37, D38, D39, D40, D41|LED_LTD-4708G|7seg|8
+10|Socket|Dc Power Jack, 5a, 20vdc, Black|J1|GCT_DCJ235-05-A-XX-X_REVA|DCJ235-05-A-XX-X_REVA|1
+11|DB9M|Adapter Connector D-Sub, 9 Pin Male To D-Sub, 9 Pin Male Free Hanging _In-Line_|J2|D-09M|DB9M|1
+12|1-1721150-0|Electromechanical Relay 5VDC 15A SPDT __ 19.2mm 15.5mm 15mm__ THT General Purpose Relay|K1, K2|RELAY_ORWH-SH-105D1F,000|ORWH-SH-105D1F,000|2
+13|Header 8|Header, 8-Pin|P1, P2, P5, P12, P32, P33, P35, P43|HDR1X8|Header 8|8
+14|Header 2|Header, 2-Pin|P3, P16, P19, P20, P21, P22, P24, P25, P26, P27, P29, P34, P36, P39, P40, P42, P46|HDR1X2|Header 2|17
+15|Header 18|Header, 18-Pin|P4, P50|HDR1X18|Header 18|2
+16|Header 4X2A|Header, 4-Pin, Dual row|P6, P7, P8, P9|HDR2X4_CEN|Header 4X2A|4
+17|Header 3|Header, 3-Pin|P10, P11, P37, P41, P44, P45, SS1, SS2, SS3, SS4, SS5|HDR1X3|Header 3|11
+18|Header 16|Header, 16-Pin|P13|HDR1X16|Header 16|1
+19|Header 20|Header, 20-Pin|P14|HDR1X20|Header 20|1
+20|Header 13|Header, 13-Pin|P15|HDR1X13|Header 13|1
+21|Header 4|Header, 4-Pin|P17, P18, P28, P30, P47, P49|HDR1X4|Header 4|6
+22|Header 5|Header, 5-Pin|P23|HDR1X5|Header 5|1
+23|Header 6|Header, 6-Pin|P31|HDR1X6|Header 6|1
+24|screw terminal||P48|screw library|screw terminal|1
+25|2N5172|Bipolar (BJT) Transistor NPN 25V 500mA 625mW Through Hole TO-92-3|Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9|TRANSISTOR_TO-92|2N5172|9
+26|3296W-1-103ALF|10 kOhms 0.5W, 1 / 2W PC Pins qua lá»— Trimmer Potentiometer Cermet 25 Turn Top Äiá»u chá»‰nh|R1, R32|TRIM_3296W-1-103ALF|3296W-1-103ALF|2
+27|Res1|Resistor|R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R33, R34, R35, R36, R37, R38, R39, R40, R44, R45, R46, R47, R48, R49, R50, R51, R52, R53, R54, R55, R56, R57, R58, R59, R60, R61, R62, R63, R64, R65, R66, R67, R68, R69, R70, R71, R72, R73, R74, R75, R76, R77, R78, R79, R80|AXIAL-0.3|Res1|75
+28|RPot|Potentiometer|R41, R42|VR5|RPot|2
+29|10k sip||R43|10k sip|10k sip|1
+30|SKHHANA010|Switch Tactile N.O. SPST Round Button PC Pins 0.05A 12VDC 0.98N Thru-Hole Bulk|S1|SW_SKHHANA010|SKHHANA010|1
+31|SKHHANA010|Switch Tactile N.O. SPST Round Button PC Pins 0.05A 12VDC 0.98N Thru-Hole Bulk|S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S20, S21, S22, S23, S24, S25, S26, S27|buttons|SKHHANA010|26
+32|ULN2004A|ULN2004A|U1|ULN2004A|ULN2004A|1
+33|LM7805|LM7805|U2|LM7805|Component_1|1
+34|PIC16F887||U3|PIC(40pin)|PIC(40)pin|1
+35|pic(20) pin||U4|PIC(20)piN|pic(20) pin|1
+36|PIC16F57||U5|PIC(28) pin|PIC16F57|1
+37|PIC16F83||U6|pic16F54|pic(18) pin|1
+38|PIC12C508||U7|PIC10F220|PIC(8)pin|1
+39|PIC16F630||U8|PIC16f630|PIC(14) pin|1
+40|PIC16F886||U9|PIC(28) pin|PIC(28)pin|1
+41|PIC16F2XX||U10|PIC10F220|PIC16F2XX|1
+42|1838V|Remote Receiver Sensor, 38.0kHz 45m Through Hole|U11|TSOP18XX|1838V|1
+43|LM35|&plusmn;0.5&deg;C 4V-30V, Temperature sensor with analog output 3-TO-92|U12|TO127P254X495-3P|LM35|1
+44|MAX232|Dual EIA-232 Driver/Receiver|U13|DIP794W45P254L1969H508Q16|MAX232N|1
+45|93LC46A/P|EEPROM Memory IC 1Kb (128 x 8) SPI 2MHz 8-PDIP|U14|PIC10F220|93LC46A/P|1
+46|24AA1025|EEPROM Memory IC 1Mb (128K x 8) IÂ²C 400kHz 900ns 8-PDIP|U15|PIC10F220|24AA1025-I/P|1
+47|TLC5615|10-bit, single-channel, low-power DAC with 12.5us settling time and power-on reset 8-PDIP 0 to 70|U16|PIC10F220|TLC5615CP|1
+48|DS1302|Real Time Clock _RTC_ IC Clock/Calendar 31B 8-DIP _0.300, 7.62mm_|U17|PIC10F220|DS1302|1
+49|L293D||U18|L293D|L293D|1
+50|XTAL|Crystal Oscillator|Y1, Y2|R38|XTAL|2

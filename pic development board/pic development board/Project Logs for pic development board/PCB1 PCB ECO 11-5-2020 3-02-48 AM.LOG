@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=reset Pin=S1-1
+Change Component Footprint: Designator=S1 Old Footprint=SPST-2 New Footprint=SW_SKHHANA010
+Change Component Comment : Designator=S1 Old Comment=SW-PB New Comment=SKHHANA010
+Change component parameters: Designator = "S1"; Footprint = "SW_SKHHANA010"; UniqueID = "\NDRXELPF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ALPS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKHHANA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SKHHANA010/ALPS/view-part/248805/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=reset Pin=S1-3
+Added Pin To Net: NetName=reset Pin=S1-4

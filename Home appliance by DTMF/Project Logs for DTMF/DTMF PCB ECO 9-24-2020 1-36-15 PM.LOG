@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=Reset Pin=C5-2
+Added Pin To Net: NetName=Reset Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Room: Name=DTMF

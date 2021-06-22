@@ -1,0 +1,8 @@
+Added Component: Designator=C31(cap)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "104p"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=+12 Pin=C31-2
+Added Member To Class: ClassName=Sheet2 Member=Component C31 cap
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

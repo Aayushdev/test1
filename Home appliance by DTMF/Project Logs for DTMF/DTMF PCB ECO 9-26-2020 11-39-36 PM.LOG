@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=R18-1
+Added Pin To Net: NetName=+5 Pin=R18-1
+Added Room: Name=DTMF

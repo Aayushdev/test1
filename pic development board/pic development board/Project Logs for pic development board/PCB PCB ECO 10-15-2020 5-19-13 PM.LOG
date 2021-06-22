@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=1C Pin=Q8-1
+Removed Pin From Net: NetName=NetQ2_2 Pin=Q8-2
+Removed Pin From Net: NetName=GND Pin=Q8-3
+Change Component Footprint: Designator=R66 Old Footprint=PCBComponent_1 New Footprint=10k sip
+Added Pin To Net: NetName=NetP42_2 Pin=R66-1
+Added Pin To Net: NetName=NetP40_1 Pin=R66-2
+Added Pin To Net: NetName=NetP40_2 Pin=R66-3
+Added Pin To Net: NetName=NetP40_3 Pin=R66-4
+Added Pin To Net: NetName=NetP40_4 Pin=R66-5
+Added Pin To Net: NetName=NetP40_5 Pin=R66-6
+Added Pin To Net: NetName=NetP40_6 Pin=R66-7
+Added Pin To Net: NetName=NetP40_7 Pin=R66-8
+Added Pin To Net: NetName=NetP40_8 Pin=R66-9
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

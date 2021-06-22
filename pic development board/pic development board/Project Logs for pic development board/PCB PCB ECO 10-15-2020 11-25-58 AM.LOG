@@ -1,0 +1,80 @@
+Removed Member From Class: ClassName=Sheet1 Member=D31
+Removed Member From Class: ClassName=Sheet1 Member=D32
+Removed Member From Class: ClassName=Sheet1 Member=D33
+Removed Member From Class: ClassName=Sheet1 Member=D34
+Removed Member From Class: ClassName=Sheet1 Member=D35
+Added Component: Designator=D1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R4-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R6-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R7-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=R8-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD9_1 Pin=R9-2
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD10_1 Pin=R10-2
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetD11_1 Pin=R11-2
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD14_1 Pin=R12-2
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD16_1 Pin=R13-2
+Added Net: Name=NetD16_1
+Added Pin To Net: NetName=NetD17_1 Pin=R14-2
+Added Net: Name=NetD17_1
+Added Pin To Net: NetName=NetD18_1 Pin=R15-2
+Added Net: Name=NetD18_1
+Added Pin To Net: NetName=NetD20_1 Pin=R16-2
+Added Net: Name=NetD20_1
+Added Pin To Net: NetName=NetD21_1 Pin=R17-2
+Added Net: Name=NetD21_1
+Added Pin To Net: NetName=NetD22_1 Pin=R18-2
+Added Net: Name=NetD22_1
+Added Pin To Net: NetName=NetD23_1 Pin=R19-2
+Added Net: Name=NetD23_1
+Added Pin To Net: NetName=NetD24_1 Pin=R20-2
+Added Net: Name=NetD24_1
+Added Pin To Net: NetName=NetD25_1 Pin=R21-2
+Added Net: Name=NetD25_1
+Added Pin To Net: NetName=NetD26_1 Pin=R22-2
+Added Net: Name=NetD26_1
+Added Pin To Net: NetName=NetD27_1 Pin=R23-2
+Added Net: Name=NetD27_1
+Added Pin To Net: NetName=NetD28_1 Pin=R24-2
+Added Net: Name=NetD28_1
+Added Pin To Net: NetName=NetD29_1 Pin=R25-2
+Added Net: Name=NetD29_1
+Added Pin To Net: NetName=NetD30_1 Pin=R26-2
+Added Net: Name=NetD30_1
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED
+Added Member To Class: ClassName=Sheet1 Member=Component D2 LED
+Added Member To Class: ClassName=Sheet1 Member=Component D3 LED
+Added Member To Class: ClassName=Sheet1 Member=Component D4 LED
+Added Member To Class: ClassName=Sheet1 Member=Component D5 LED
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

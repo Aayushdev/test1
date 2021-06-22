@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=1C Pin=Q2-3
+Change Component Comment : Designator=Q2 Old Comment=NPN transistor New Comment=2N5172
+Added Pin To Net: NetName=1C Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R44-1
+Added Net: Name=NetQ2_1
+Added Member To Class: ClassName=Sheet2 Member=Component S24 SW-PB
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

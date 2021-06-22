@@ -1,0 +1,27 @@
+Added Component: Designator=U1(DIP254P762X342-18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Holtek"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HT12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-18 Holtek"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HT12D/Holtek/view-part/53386/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetP2_4 Pin=U1-10
+Added Pin To Net: NetName=NetP2_3 Pin=U1-11
+Added Pin To Net: NetName=NetP2_2 Pin=U1-12
+Added Pin To Net: NetName=NetP2_1 Pin=U1-13
+Added Pin To Net: NetName=NetP1_2 Pin=U1-14
+Added Pin To Net: NetName=NetR1_2 Pin=U1-15
+Added Pin To Net: NetName=NetR1_1 Pin=U1-16
+Added Pin To Net: NetName=+5 Pin=U1-18
+Added Member To Class: ClassName=Rf reciever Member=Component U1 HT12D

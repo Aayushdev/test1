@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=1D Pin=Q2-1
+Added Pin To Net: NetName=2D Pin=Q3-1
+Added Pin To Net: NetName=3D Pin=Q4-1
+Added Pin To Net: NetName=4D Pin=Q5-1
+Added Pin To Net: NetName=5D Pin=Q6-1
+Added Pin To Net: NetName=6D Pin=Q7-1
+Added Pin To Net: NetName=1D Pin=R44-1
+Added Pin To Net: NetName=2D Pin=R45-1
+Added Pin To Net: NetName=3D Pin=R46-1
+Added Pin To Net: NetName=4D Pin=R47-1
+Added Pin To Net: NetName=5D Pin=R48-1
+Added Pin To Net: NetName=6D Pin=R49-1
+Added Member To Class: ClassName=Sheet2 Member=Component D36 7seg
+Added Member To Class: ClassName=Sheet2 Member=Component D37 7seg
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=+5 Pin=U1-6
+Added Member To Class: ClassName=DTMF Member=Component C6 cap
+Added Member To Class: ClassName=DTMF Member=Component K2 1-1721150-0
+Added Room: Name=DTMF

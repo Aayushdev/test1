@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D15 Old Footprint=LED-1 New Footprint=PCBComponent_1
+Change Component Comment : Designator=D15 Old Comment=LED1 New Comment=LED
+Change component parameters: Designator = "D15"; Footprint = "PCBComponent_1"; UniqueID = "\BTAURKKD"
+Change component parameters. Clean all parameters for all variants
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

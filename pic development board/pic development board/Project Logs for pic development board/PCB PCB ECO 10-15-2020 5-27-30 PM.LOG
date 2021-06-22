@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R43 Old Footprint=PCBComponent_1 New Footprint=10k sip
+Added Pin To Net: NetName=NetP17_2 Pin=R43-1
+Added Pin To Net: NetName=NetP33_1 Pin=R43-2
+Added Pin To Net: NetName=NetP33_2 Pin=R43-3
+Added Pin To Net: NetName=NetP33_3 Pin=R43-4
+Added Pin To Net: NetName=NetP33_4 Pin=R43-5
+Added Pin To Net: NetName=NetP33_5 Pin=R43-6
+Added Pin To Net: NetName=NetP33_6 Pin=R43-7
+Added Pin To Net: NetName=NetP33_7 Pin=R43-8
+Added Pin To Net: NetName=NetP33_8 Pin=R43-9
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

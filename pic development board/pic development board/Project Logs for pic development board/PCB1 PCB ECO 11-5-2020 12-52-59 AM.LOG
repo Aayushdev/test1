@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetP44_1 Pin=P44-2
+Removed Pin From Net: NetName=NetP44_1 Pin=P44-3
+Removed Pin From Net: NetName=NetP44_1 Pin=P45-2
+Removed Pin From Net: NetName=NetP44_1 Pin=P45-3
+Removed Pin From Net: NetName=NetP44_1 Pin=U17-6
+Removed Pin From Net: NetName=NetP44_1 Pin=U17-7
+Added Pin To Net: NetName=NetP44_2 Pin=P44-2
+Added Pin To Net: NetName=NetP44_2 Pin=P45-2
+Added Pin To Net: NetName=NetP44_2 Pin=U17-6
+Added Net: Name=NetP44_2
+Added Pin To Net: NetName=NetP44_3 Pin=P44-3
+Added Pin To Net: NetName=NetP44_3 Pin=P45-3
+Added Pin To Net: NetName=NetP44_3 Pin=U17-7
+Added Net: Name=NetP44_3
+Added Member To Class: ClassName=Sheet2 Member=Component U18 L293D

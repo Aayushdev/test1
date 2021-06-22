@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U2 Old Footprint=Encoder New Footprint=HT12E
+Added Member To Class: ClassName=rf transmitter Member=Component R1 Res Semi
+Added Member To Class: ClassName=rf transmitter Member=Component R3 Res Semi
+Added Room: Name=rf transmitter

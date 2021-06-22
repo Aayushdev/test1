@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=S? NewDesignator=S2
+Change Component Designator: OldDesignator=S? NewDesignator=S3
+Change Component Designator: OldDesignator=S? NewDesignator=S4
+Change Component Designator: OldDesignator=S? NewDesignator=S5
+Change Component Designator: OldDesignator=S? NewDesignator=S6
+Change Component Designator: OldDesignator=S? NewDesignator=S7
+Change Component Designator: OldDesignator=S? NewDesignator=S8
+Change Component Designator: OldDesignator=S? NewDesignator=S9
+Change Component Designator: OldDesignator=S? NewDesignator=S10
+Change Component Designator: OldDesignator=S? NewDesignator=S11
+Change Net Name : Old Net Name=NetS?_1 New Net Name=NetS9_1
+Change Net Name : Old Net Name=NetS?_3 New Net Name=NetS10_3
+Added Pin To Net: NetName=NetS11_3 Pin=S11-3
+Added Pin To Net: NetName=NetS11_3 Pin=S11-4
+Added Pin To Net: NetName=NetS11_3 Pin=U18-9
+Added Net: Name=NetS11_3
+Added Member To Class: ClassName=Sheet2 Member=Component S2 SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S3 SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S4 SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S5 SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S6 SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S7 SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S8 SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S10 SKHHANA010
+Added Member To Class: ClassName=Sheet2 Member=Component S11 SKHHANA010
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

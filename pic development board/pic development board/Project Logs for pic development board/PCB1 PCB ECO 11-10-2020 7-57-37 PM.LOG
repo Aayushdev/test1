@@ -1,0 +1,96 @@
+Added Component: Designator=D34(LED_LTD-4708G)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D35(LED_LTD-4708G)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D36(LED_LTD-4708G)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D37(LED_LTD-4708G)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D38(LED_LTD-4708G)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D39(LED_LTD-4708G)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D40(LED_LTD-4708G)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D41(LED_LTD-4708G)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=E Pin=D34-1
+Added Pin To Net: NetName=D Pin=D34-2
+Added Pin To Net: NetName=7D Pin=D34-3
+Added Pin To Net: NetName=C Pin=D34-4
+Added Pin To Net: NetName=DP Pin=D34-5
+Added Pin To Net: NetName=B Pin=D34-6
+Added Pin To Net: NetName=A Pin=D34-7
+Added Pin To Net: NetName=F Pin=D34-9
+Added Pin To Net: NetName=G Pin=D34-10
+Added Pin To Net: NetName=E Pin=D35-1
+Added Pin To Net: NetName=D Pin=D35-2
+Added Pin To Net: NetName=1D Pin=D35-3
+Added Pin To Net: NetName=C Pin=D35-4
+Added Pin To Net: NetName=DP Pin=D35-5
+Added Pin To Net: NetName=B Pin=D35-6
+Added Pin To Net: NetName=A Pin=D35-7
+Added Pin To Net: NetName=F Pin=D35-9
+Added Pin To Net: NetName=G Pin=D35-10
+Added Pin To Net: NetName=E Pin=D36-1
+Added Pin To Net: NetName=D Pin=D36-2
+Added Pin To Net: NetName=2D Pin=D36-3
+Added Pin To Net: NetName=C Pin=D36-4
+Added Pin To Net: NetName=DP Pin=D36-5
+Added Pin To Net: NetName=B Pin=D36-6
+Added Pin To Net: NetName=A Pin=D36-7
+Added Pin To Net: NetName=F Pin=D36-9
+Added Pin To Net: NetName=G Pin=D36-10
+Added Pin To Net: NetName=E Pin=D37-1
+Added Pin To Net: NetName=D Pin=D37-2
+Added Pin To Net: NetName=3D Pin=D37-3
+Added Pin To Net: NetName=C Pin=D37-4
+Added Pin To Net: NetName=DP Pin=D37-5
+Added Pin To Net: NetName=B Pin=D37-6
+Added Pin To Net: NetName=A Pin=D37-7
+Added Pin To Net: NetName=F Pin=D37-9
+Added Pin To Net: NetName=G Pin=D37-10
+Added Pin To Net: NetName=E Pin=D38-1
+Added Pin To Net: NetName=D Pin=D38-2
+Added Pin To Net: NetName=4D Pin=D38-3
+Added Pin To Net: NetName=C Pin=D38-4
+Added Pin To Net: NetName=DP Pin=D38-5
+Added Pin To Net: NetName=B Pin=D38-6
+Added Pin To Net: NetName=A Pin=D38-7
+Added Pin To Net: NetName=F Pin=D38-9
+Added Pin To Net: NetName=G Pin=D38-10
+Added Pin To Net: NetName=E Pin=D39-1
+Added Pin To Net: NetName=D Pin=D39-2
+Added Pin To Net: NetName=5D Pin=D39-3
+Added Pin To Net: NetName=C Pin=D39-4
+Added Pin To Net: NetName=DP Pin=D39-5
+Added Pin To Net: NetName=B Pin=D39-6
+Added Pin To Net: NetName=A Pin=D39-7
+Added Pin To Net: NetName=F Pin=D39-9
+Added Pin To Net: NetName=G Pin=D39-10
+Added Pin To Net: NetName=E Pin=D40-1
+Added Pin To Net: NetName=D Pin=D40-2
+Added Pin To Net: NetName=6D Pin=D40-3
+Added Pin To Net: NetName=C Pin=D40-4
+Added Pin To Net: NetName=DP Pin=D40-5
+Added Pin To Net: NetName=B Pin=D40-6
+Added Pin To Net: NetName=A Pin=D40-7
+Added Pin To Net: NetName=F Pin=D40-9
+Added Pin To Net: NetName=G Pin=D40-10
+Added Pin To Net: NetName=E Pin=D41-1
+Added Pin To Net: NetName=D Pin=D41-2
+Added Pin To Net: NetName=8D Pin=D41-3
+Added Pin To Net: NetName=C Pin=D41-4
+Added Pin To Net: NetName=DP Pin=D41-5
+Added Pin To Net: NetName=B Pin=D41-6
+Added Pin To Net: NetName=A Pin=D41-7
+Added Pin To Net: NetName=F Pin=D41-9
+Added Pin To Net: NetName=G Pin=D41-10
+Added Member To Class: ClassName=Sheet2 Member=Component D34 7seg
+Added Member To Class: ClassName=Sheet2 Member=Component D35 7seg
+Added Member To Class: ClassName=Sheet2 Member=Component D36 7seg
+Added Member To Class: ClassName=Sheet2 Member=Component D37 7seg
+Added Member To Class: ClassName=Sheet2 Member=Component D38 7seg
+Added Member To Class: ClassName=Sheet2 Member=Component D39 7seg
+Added Member To Class: ClassName=Sheet2 Member=Component D40 7seg
+Added Member To Class: ClassName=Sheet2 Member=Component D41 7seg

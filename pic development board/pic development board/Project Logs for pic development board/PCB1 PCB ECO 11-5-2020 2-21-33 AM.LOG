@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=WP Pin=P31-2
+Removed Pin From Net: NetName=VCC Pin=P31-6
+Added Pin To Net: NetName=VCC Pin=P31-1
+Added Pin To Net: NetName=a1 Pin=P31-3
+Added Pin To Net: NetName=a2 Pin=P31-4
+Added Pin To Net: NetName=WP Pin=P31-5
+Added Pin To Net: NetName=GND Pin=P31-6
+Added Pin To Net: NetName=a1 Pin=U15-2
+Added Pin To Net: NetName=a2 Pin=U15-3
+Added Pin To Net: NetName=GND Pin=U15-4
+Added Pin To Net: NetName=A0 Pin=P31-2
+Added Pin To Net: NetName=A0 Pin=U15-1
+Added Net: Name=A0
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
